@@ -1,0 +1,7 @@
+# _config.yml
+
+# Configuración general de Jekyll
+
+# Especifica el directorio de origen para los archivos fuente de tu sitio
+source: pages
+
